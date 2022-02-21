@@ -6,7 +6,7 @@ package com.github.zjjfly.jia.ch02;
  */
 public class WordCounter {
 
-  public int countWords(String sentence) {
-    return sentence.split(" ").length;
-  }
+    public int countWords(String sentence) {
+        return sentence.split(" ").length;
+    }
 }

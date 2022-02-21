@@ -12,14 +12,14 @@ import lombok.Data;
 @Builder(setterPrefix = "with")
 public class Customer {
 
-  private Gender gender;
+    private Gender gender;
 
-  private String firstName;
+    private String firstName;
 
-  private String lastName;
+    private String lastName;
 
-  private String middleName;
+    private String middleName;
 
-  private Date becomeCustomer;
+    private Date becomeCustomer;
 
 }

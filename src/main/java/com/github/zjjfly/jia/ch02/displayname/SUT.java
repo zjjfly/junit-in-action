@@ -22,6 +22,7 @@
 package com.github.zjjfly.jia.ch02.displayname;
 
 class SUT {
+
     String hello() {
         return "Hello";
     }

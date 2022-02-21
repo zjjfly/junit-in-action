@@ -6,13 +6,13 @@ package com.github.zjjfly.jia.ch02.tags;
  */
 public class Customer {
 
-  private String name;
+    private String name;
 
-  Customer(String name) {
-    this.name = name;
-  }
+    Customer(String name) {
+        this.name = name;
+    }
 
-  public String getName() {
-    return name;
-  }
+    public String getName() {
+        return name;
+    }
 }

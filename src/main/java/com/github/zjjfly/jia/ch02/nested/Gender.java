@@ -5,5 +5,5 @@ package com.github.zjjfly.jia.ch02.nested;
  * @date 2021/10/21
  */
 public enum Gender {
-  MALE, FEMALE;
+    MALE, FEMALE;
 }
