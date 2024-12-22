@@ -1,16 +1,17 @@
 package com.github.zjjfly.jia.ch03;
 
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 import org.junit.Test;
 import org.junit.runner.Description;
 import org.junit.runner.Runner;
 import org.junit.runner.notification.RunNotifier;
 
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+
 /**
  * Junit4运行测试是通过{@link Runner}进行的，这里实现了一个自定义的{@link Runner}
  *
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/1/15
  */
 public class CustomTestRunner extends Runner {

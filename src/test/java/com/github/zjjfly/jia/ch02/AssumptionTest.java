@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 /**
  * assumption表示测试执行的前置条件，如果不满足则不执行测试
  *
- * @author zijunjie[[https://github.com/zjjfly]]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2021/10/22
  */
 public class AssumptionTest {

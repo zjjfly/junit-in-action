@@ -5,7 +5,7 @@ import org.junit.runner.Description;
 import org.junit.runners.model.Statement;
 
 /**
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/2/20
  */
 public class CustomRule implements TestRule {

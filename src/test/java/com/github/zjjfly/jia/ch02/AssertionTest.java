@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 /**
- * @author zijunjie[[https://github.com/zjjfly]]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2021/10/22
  */
 public class AssertionTest {

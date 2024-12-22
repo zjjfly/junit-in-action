@@ -4,7 +4,7 @@ import org.junit.Rule;
 import org.junit.Test;
 
 /**
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/2/20
  */
 public class CustomRuleTester {

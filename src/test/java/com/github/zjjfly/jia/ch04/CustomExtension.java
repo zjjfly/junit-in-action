@@ -7,7 +7,7 @@ import org.junit.jupiter.api.extension.ExtensionContext;
 /**
  * Junit5提供了Extension来替代Junit4的TestRule
  *
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/2/21
  */
 public class CustomExtension implements AfterEachCallback, BeforeEachCallback {

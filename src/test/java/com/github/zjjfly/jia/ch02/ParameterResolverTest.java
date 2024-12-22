@@ -18,7 +18,7 @@ import org.junit.jupiter.api.TestReporter;
  * 默认的三个ParameterResolver注入了了{@link TestInfo},{@link TestReporter},{@link RepetitionInfo}
  * </p>
  *
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/1/8
  */
 class ParameterResolverTest {

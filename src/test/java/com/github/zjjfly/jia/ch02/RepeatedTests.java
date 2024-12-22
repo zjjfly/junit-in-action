@@ -24,7 +24,7 @@ import org.junit.jupiter.api.TestReporter;
  *
  * </p>
  *
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/1/10
  */
 @TestInstance(Lifecycle.PER_CLASS)

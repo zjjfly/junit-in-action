@@ -17,7 +17,7 @@ import org.junit.jupiter.params.provider.ValueSource;
  * 需要搭配{@link org.junit.jupiter.params.provider.ArgumentsSource}或其子注解进行参数注入
  * </p>
  *
- * @author zijunjie[https://github.com/zjjfly]
+ * @author <a href="https://github.com/zjjfly"/>zjjfly</a>
  * @date 2022/1/10
  */
 @TestInstance(Lifecycle.PER_CLASS)
